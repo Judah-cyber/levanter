@@ -23,12 +23,12 @@
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
-      "value": "."
+      "value": "^"
     },
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_224a837f79eefd4706a2df62aad52a8fcc"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
